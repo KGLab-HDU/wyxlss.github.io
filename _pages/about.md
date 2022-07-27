@@ -5,9 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
+* **[2022.08]**<font size=1>One paper is accepted by <font color=red>CIKM 2022</font></font> !<br/> 
 * **[2022.03]** One paper won the <font color=red> best paper award of CBD 2021</font>!<br/>
-* **[2022.03]** One paper is accpeted by <font color=red>ICDE 2022</font>!<br/>
-* **[2021.09]** One paper is accpeted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
+* **[2022.03]** One paper is accepted by <font color=red>ICDE 2022</font>!<br/>
+* **[2021.09]** One paper is accepted by <font color=red>ICDE 2022</font> (Early Notification)!<br/>
 * **[2021.07]** One paper is accepted by **Knowledge-based Systems**!<br/>
 * **[2021.06]** One paper is accepted by <font color=red>VLDB 2021</font>!<br/>
 * **[2021.06]** Join **Chinese Information Processing Society of China** as a member!<br/>
